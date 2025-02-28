@@ -456,7 +456,7 @@ fn main() {
     let native_options = eframe::NativeOptions {
         initial_window_size: Some(Vec2::new(300.0, 275.0)),
         resizable: false,
-        min_window_size: Some(Vec2::new(300.0, 405.0)),
+        min_window_size: Some(Vec2::new(300.0, 275.0)),
         icon_data: Some(icon_data), // Custom window icon set here
         ..Default::default()
     };
