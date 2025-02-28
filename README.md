@@ -3,7 +3,7 @@
 A sleek, modern, and cross-platform GUI wrapper for the ThetaData Terminal. Built in Rust with [eframe/egui](https://github.com/emilk/egui), this application transforms the thetadata.jar into an clean, user-friendly adventure.
 
 
-![App view](resources/preview.png)
+![App view](resources/win_preview.png)
 
 ## Overview
 
@@ -29,8 +29,8 @@ Download the latest build from the [**/download/v0.01/**](./download/v0.1/) dire
 Alternatively, clone and build the project yourself:
 
 ```bash
-git clone https://github.com/yourusername/ThetaDataTerminalGUI.git
-cd ThetaDataTerminalGUI
+git clone https://github.com/veppy1/thetadata_terminal_gui.git
+cd thetadata_terminal_gui
 cargo build --release
 ```
 
