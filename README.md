@@ -23,7 +23,7 @@ A sleek, modern, and cross-platform GUI wrapper for the ThetaData Terminal. Buil
 
 Download the latest build from the [**/download/v0.01/**](./download/v0.1/) directory:
 - **Windows:** `ThetaDataTerminalGUI_Installer.exe`
-- **macOS:** `ThetaData Terminal GUI.app`
+- **macOS:** `MAC ThetaData Terminal GUI.zip`
 
 Alternatively, clone and build the project yourself:
 
