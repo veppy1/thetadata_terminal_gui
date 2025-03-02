@@ -1,6 +1,6 @@
 [package]
 name = "thetadata_terminal_gui_wrapper"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["veppy"]
 edition = "2021"
 
@@ -10,10 +10,11 @@ keyring = "1.2.0"                                          # Secure credential s
 rfd = "0.10.0"                                             # File picker dialog
 confy = "0.5.1"                                            # Simple app configuration
 serde = { version = "1.0", features = ["derive"] }
-image = "0.24.5"                                           # Forx loading png/jpg icons
+image = "0.24.5"                                           # For loading png/jpg icons
 iced = { version = "0.13", features = ["tokio", "debug"] }
 native-dialog = "0.6"
 clipboard = "0.5"
+encoding_rs = "0.8.31"                                     # For decoding non-UTF8 config files
 
 [package.metadata.bundle]
 name = "ThetaData Terminal GUI"
