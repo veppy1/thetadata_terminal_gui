@@ -5,3 +5,8 @@
 /src/backupmain.rs
 /download
 /resources/view.mov
+.gitignore
+/Cargo.lock
+/.txt
+
+/.DS_Store
